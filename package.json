@@ -1,0 +1,16 @@
+{
+  "name": "mocha-seed",
+  "version": "0.0.0",
+  "description": "A simple package that uses Mocha.",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "mocha"
+  ],
+  "author": "Jonathan Ginsburg",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "mocha": "^9.0.0"
+  }
+}
